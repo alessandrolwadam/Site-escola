@@ -11,4 +11,6 @@ width: 20%;
     display: flex;
     justify-content: space-around;
 }
-.cabecalho-lita-item
+.cabecalho-lita-item{
+    display: inline-block;
+}
